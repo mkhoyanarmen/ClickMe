@@ -1,0 +1,15 @@
+C:\Users\armen\source\repos\ClickMe\ClickMe\bin\Debug\ClickMe.exe.config
+C:\Users\armen\source\repos\ClickMe\ClickMe\bin\Debug\ClickMe.exe
+C:\Users\armen\source\repos\ClickMe\ClickMe\bin\Debug\ClickMe.pdb
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.AssemblyReference.cache
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.Form1.resources
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.Properties.Resources.resources
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.GenerateResource.cache
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.csproj.CoreCompileInputs.cache
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.exe
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.pdb
+C:\Users\armen\source\repos\ClickMe\ClickMe\bin\Debug\ClickMe.exe.manifest
+C:\Users\armen\source\repos\ClickMe\ClickMe\bin\Debug\ClickMe.application
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.exe.manifest
+C:\Users\armen\source\repos\ClickMe\ClickMe\obj\Debug\ClickMe.application
